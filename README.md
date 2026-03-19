@@ -1,6 +1,6 @@
 # 📝 Creación de MCP Servers y su uso con GitHub Copilot en modo Agente
 
-Este repositorio contiene materiales, ejemplos y una implementación de un servidor MCP (Model Context Protocol) para gestionar notas adhesivas, utilizado en la charla sobre integración de servidores MCP con GitHub Copilot en modo agente.
+Este repositorio contiene materiales, ejemplos y una implementación de un servidor MCP (Model Context Protocol) para gestionar notas adhesivas, utilizado en la charla sobre integración de servidores MCP con GitHub Copilot en modo agente..
 
 ---
 
